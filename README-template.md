@@ -6,7 +6,8 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](https://user-images.githubusercontent.com/53672776/217571049-acaf31d5-0ab3-4fd0-9318-ed8ec6eaf377.png)
+  - [Screenshot](https://user-images.githubusercontent.com/53672776/217571341-58bca8be-57c2-45b5-84e3-e8e0767ddb5e.png)
+
 nshot of website.png)
   - [Links](#links)
 - [My process](#my-process)
