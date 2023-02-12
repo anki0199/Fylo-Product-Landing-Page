@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source code](https://github.com/anki0199/Fylo-Product-Landing-Page)
+- Live Site URL: [Fylo-product-landing-page](https://melodic-bavarois-413e00.netlify.app/)
 
 ## My process
 
